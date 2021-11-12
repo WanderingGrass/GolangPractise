@@ -1,2 +1,2 @@
 # GolangPractise
-go编程语言联系和相关资料
+go编程语言练习和相关资料
